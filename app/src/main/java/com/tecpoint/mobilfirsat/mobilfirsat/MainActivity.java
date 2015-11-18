@@ -40,7 +40,7 @@ public class MainActivity extends AppCompatActivity {
 
         lsvMenu = (ListView) findViewById(R.id.lsvMenu);
         //ArrayAdapter<String> adapter=new ArrayAdapter<String>(getApplicationContext(),android.R.layout.simple_list_item_1,android.R.id.text1,TITLES);
-        //lsvMenu.setAdapter(adapter);
+      //  lsvMenu.setAdapter(adapter);
 
 
         menuItems.add(new com.tecpoint.mobilfirsat.mobilfirsat.Model.MenuItem("gencaksoy", "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvc_fXxNEc8OSLgwiLOrQq-KgOe1LOzXHLFEpk-4Kxp1OcHJ-dKJVrk7A"));
