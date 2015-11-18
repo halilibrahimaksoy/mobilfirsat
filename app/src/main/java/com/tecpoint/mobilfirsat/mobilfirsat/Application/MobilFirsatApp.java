@@ -1,4 +1,4 @@
-package com.tecpoint.mobilfirsat.mobilfirsat;
+package com.tecpoint.mobilfirsat.mobilfirsat.Application;
 
 import android.app.Application;
 

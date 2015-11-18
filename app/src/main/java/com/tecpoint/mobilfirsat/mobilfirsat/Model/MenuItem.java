@@ -5,8 +5,8 @@ package com.tecpoint.mobilfirsat.mobilfirsat.Model;
  */
 public class MenuItem {
 
-  private   String itemText;
-   private String itemIconUrl;
+    private String itemText;
+    private String itemIconUrl;
 
     public MenuItem(String itemText, String itemIconUrl) {
         this.itemText = itemText;
