@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 selectedItem(position);
+                selectedItem(position);
             }
         });
 
